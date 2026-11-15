@@ -2,6 +2,8 @@
 
 **A machine learning approach to forecasting 15-minute electricity market clearing prices in India's Day-Ahead Market (DAM).**
 
+![Predicted vs Actual Prices](images/output.png)
+
 ## Overview
 
 Electricity prices fluctuate throughout the day due to changes in demand, supply, market participation, and other factors. Accurate day-ahead price forecasting can help market participants understand price patterns and make more informed decisions.
